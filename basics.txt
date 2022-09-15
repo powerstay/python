@@ -2,4 +2,6 @@
 void main()
 {
 print("hi everyone")
+print("hello")
+
 }
